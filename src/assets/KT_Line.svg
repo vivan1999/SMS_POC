@@ -1,0 +1,325 @@
+ <svg id="Kwun_Tong_Line" data-name="Kwun Tong Line" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1759.89 676.03">
+    <defs>
+      <style>
+        .cls-1,
+        .cls-16,
+        .cls-2,
+        .cls-4 {
+          fill: none;
+        }
+  
+        .cls-1,
+        .cls-4 {
+          stroke: #cdd9e1;
+        }
+  
+        .cls-1,
+        .cls-2 {
+          stroke-miterlimit: 10;
+          stroke-width: 16.2px;
+        }
+  
+        .cls-2 {
+          stroke: #00ab4e;
+        }
+  
+        .cls-3 {
+          fill: #fff;
+        }
+        .cls-33{
+          fill: #ffd966;
+        }
+        .cls-44{
+          fill: #f44336;
+        }
+        .cls-16,
+        .cls-4 {
+          stroke-width: 4.05px;
+        }
+  
+        .cls-17,
+        .cls-5 {
+          font-size: 25px;
+          font-family: SiemensSans-Bold, Siemens Sans;
+        }
+  
+        .cls-5,
+        .cls-8 {
+          fill: #cdd9e1;
+        }
+  
+        .cls-17,
+        .cls-21,
+        .cls-5,
+        .cls-8 {
+          font-weight: 700;
+        }
+  
+        .cls-6 {
+          letter-spacing: 0.01em;
+        }
+  
+        .cls-7 {
+          letter-spacing: -0.03em;
+        }
+  
+        .cls-21,
+        .cls-8 {
+          font-size: 34px;
+          font-family: SiemensSansGlobalJPN-Bold, Siemens Sans Global JPN;
+        }
+  
+        .cls-9 {
+          letter-spacing: -0.05em;
+        }
+  
+        .cls-10 {
+          letter-spacing: -0.07em;
+        }
+  
+        .cls-11 {
+          letter-spacing: -0.01em;
+        }
+  
+        .cls-12 {
+          letter-spacing: -0.07em;
+        }
+  
+        .cls-13 {
+          letter-spacing: -0.03em;
+        }
+  
+        .cls-14 {
+          letter-spacing: -0.07em;
+        }
+  
+        .cls-15 {
+          fill: #d0021b;
+          opacity: 0;
+        }
+  
+        .cls-16 {
+          stroke: #00234f;
+        }
+  
+        .cls-18 {
+          letter-spacing: -0.01em;
+        }
+  
+        .cls-19 {
+          letter-spacing: -0.01em;
+        }
+  
+        .cls-20 {
+          letter-spacing: -0.03em;
+        }
+  
+        .cls-22 {
+          letter-spacing: -0.02em;
+        }
+  
+        .cls-23 {
+          letter-spacing: -0.02em;
+        }
+  
+        .cls-24 {
+          letter-spacing: 0em;
+        }
+  
+        .cls-25 {
+          letter-spacing: -0.01em;
+        }
+      </style>
+    </defs>
+    <line id="YAT_TKL" class="cls-1" x1="1503.31" y1="579.87" x2="1669.14" y2="579.87" />
+    <path id="LAT_YAT" class="cls-1" d="M3256.52,1587.78v19.13a87.48,87.48,0,0,0,87.48,87.48h10.21" transform="translate(-1850.9 -1114.51)" />
+    <line id="KWT_LAT" class="cls-1" x1="1405.62" y1="344.34" x2="1405.62" y2="473.26" />
+    <line id="NTK_KWT" class="cls-1" x1="1405.62" y1="217.82" x2="1405.62" y2="344.34" />
+    <path id="KOB_NTK" class="cls-1" d="M3230.86,1222.65a87.19,87.19,0,0,1,25.66,61.89v47.79" transform="translate(-1850.9 -1114.51)" />
+    
+    <path id="CHH_KOB" class="cls-1" d="M3105.47,1197.06H3169a87.2,87.2,0,0,1,61.82,25.59" transform="translate(-1850.9 -1114.51)" />
+    <line id="DIH_CHH" class="cls-1" x1="1126.64" y1="82.55" x2="1254.57" y2="82.55" />
+    <line id="WTS_DIH" class="cls-1" x1="856.23" y1="82.55" x2="1126.64" y2="82.55" />
+    <line id="LOF_WTS" class="cls-1" x1="721.74" y1="82.55" x2="856.23" y2="82.55" />
+    <line id="KOT_LOF" class="cls-1" x1="598.7" y1="82.55" x2="721.74" y2="82.55" />
+    
+    <line id="SKM_KOT" class="cls-1" x1="360.27" y1="82.55" x2="598.7" y2="82.55" />
+    <path id="PRE_SKM" class="cls-1" d="M2109.75,1310.23v-25.69a87.48,87.48,0,0,1,87.48-87.48h13.94" transform="translate(-1850.9 -1114.51)" />
+    <line id="MOK_PRE" class="cls-1" x1="258.85" y1="312.41" x2="258.85" y2="195.71" />
+    <line id="YMT_MOK" class="cls-1" x1="258.85" y1="430.24" x2="258.85" y2="312.41" />
+    <path id="HOM_YMT" class="cls-1" d="M2539.9,1646.44H2197.24a87.49,87.49,0,0,1-87.49-87.48v-14.21" transform="translate(-1850.9 -1114.51)" />
+    <path id="WHA_HOM" class="cls-1" d="M2700.09,1717.28l-45.23-45.22a87.18,87.18,0,0,0-61.85-25.62H2539.9" transform="translate(-1850.9 -1114.51)" />
+    
+    
+    <g id="TKL">
+      <path id="TKL_O" class="cls-3" d="M3533.31,1694.43a13.4,13.4,0,1,1-13.39-13.4,13.39,13.39,0,0,1,13.39,13.4" transform="translate(-1850.9 -1114.51)" />
+      <path id="TKL_OB" class="cls-4" d="M3533.31,1694.43a13.4,13.4,0,1,1-13.39-13.4A13.39,13.39,0,0,1,3533.31,1694.43Z" transform="translate(-1850.9 -1114.51)" />
+      <text id="TKL-2" data-name="TKL" class="cls-5" transform="translate(1594.48 668.29)">
+        <tspan class="cls-6">T</tspan>
+        <tspan x="13.81" y="0">iu </tspan>
+        <tspan class="cls-7" x="42.24" y="0">K</tspan>
+        <tspan x="57.37" y="0">eng Leng</tspan>
+      </text>
+      <text id="TKL_C" class="cls-8" transform="translate(1618.14 641.71)">調景嶺</text>
+    </g>
+    <g id="YAT">
+      <path id="YAT_O" class="cls-3" d="M3367.61,1694.43a13.4,13.4,0,1,1-13.4-13.4,13.4,13.4,0,0,1,13.4,13.4" transform="translate(-1850.9 -1114.51)" />
+      <path id="YAT_OB" class="cls-4" d="M3367.61,1694.43a13.4,13.4,0,1,1-13.4-13.4A13.4,13.4,0,0,1,3367.61,1694.43Z" transform="translate(-1850.9 -1114.51)" />
+      <text id="YAT-2" data-name="YAT" class="cls-5" transform="translate(1453.04 668.29)">
+        <tspan class="cls-9">Y</tspan>
+        <tspan x="14.11" y="0">au </tspan>
+        <tspan class="cls-10" x="49.4" y="0">T</tspan>
+        <tspan x="61.36" y="0">ong</tspan>
+      </text>
+      <text id="YAT_C" class="cls-8" transform="translate(1469.31 641.71)">油塘</text>
+    </g>
+    <g id="LAT">
+      <path id="lat_O" class="cls-3" d="M3270,1587.78a13.4,13.4,0,1,1-13.4-13.39,13.4,13.4,0,0,1,13.4,13.39" transform="translate(-1850.9 -1114.51)" />
+      <path id="LAT_OB" class="cls-4" d="M3270,1587.78a13.4,13.4,0,1,1-13.4-13.39A13.4,13.4,0,0,1,3270,1587.78Z" transform="translate(-1850.9 -1114.51)" />
+      <text id="LAT-2" data-name="LAT" class="cls-5" transform="translate(1433.93 495.72)">Lam <tspan class="cls-6" x="55.32" y="0">T</tspan>
+        <tspan x="69.13" y="0">in</tspan>
+      </text>
+      <text id="LAT_C" class="cls-8" transform="translate(1433.93 468.27)">藍田</text>
+    </g>
+    <g id="KWT">
+      <path id="KWT_O" class="cls-3" d="M3270,1458.86a13.4,13.4,0,1,1-13.4-13.4,13.4,13.4,0,0,1,13.4,13.4" transform="translate(-1850.9 -1114.51)" />
+      <circle id="KWT_OB" class="cls-4" cx="3256.59" cy="1458.86" r="13.4" transform="translate(-2161.29 242.78) rotate(-22.5)" />
+      <text id="KWT-2" data-name="KWT" class="cls-5" transform="translate(1433.93 365.47)">Kwun <tspan class="cls-10" x="73.36" y="0">T</tspan>
+        <tspan x="85.33" y="0">ong</tspan>
+      </text>
+      <text id="KWT_C" class="cls-8" transform="translate(1433.93 337.3)">觀塘</text>
+    </g>
+    <g id="NTK">
+      <path id="NTK_O" class="cls-3" d="M3270,1329.94a13.4,13.4,0,1,1-13.4-13.4,13.4,13.4,0,0,1,13.4,13.4" transform="translate(-1850.9 -1114.51)" />
+      <path id="NTK_OB" class="cls-4" d="M3270,1329.94a13.4,13.4,0,1,1-13.4-13.4A13.4,13.4,0,0,1,3270,1329.94Z" transform="translate(-1850.9 -1114.51)" />
+      <text id="NTK-2" data-name="NTK" class="cls-5" transform="translate(1433.06 244.55)">N <tspan class="cls-11" x="18.09" y="0">g</tspan>
+        <tspan x="32.97" y="0">au </tspan>
+        <tspan class="cls-12" x="68.26" y="0">T</tspan>
+        <tspan x="80.18" y="0">au </tspan>
+        <tspan class="cls-13" x="115.47" y="0">K</tspan>
+        <tspan x="130.63" y="0">ok</tspan>
+      </text>
+      <text id="NTK_C" class="cls-8" transform="translate(1433.06 222.42)">牛頭角 <tspan class="cls-14" x="102" y="0"></tspan>
+      </text>
+    </g>
+    <g id="KOB">
+      <path id="KOB_O" class="cls-3" d="M3244.17,1222.65a13.4,13.4,0,1,1-13.4-13.4,13.4,13.4,0,0,1,13.4,13.4" transform="translate(-1850.9 -1114.51)" />
+      <!--this is circle inner fill "O" cls-3 is white -->
+      <circle id="KOB_A" class="cls-15" cx="1379.96" cy="108.13" r="25.51" />
+      <path id="KOB_OB" class="cls-4" d="M3244.17,1222.65a13.4,13.4,0,1,1-13.4-13.4A13.4,13.4,0,0,1,3244.17,1222.65Z" transform="translate(-1850.9 -1114.51)" />
+      <!--this is circle border stroke "OB" cls-4 is normal cls-16 is bold border -->
+      <text id="KOB-2" data-name="KOB" class="cls-5" transform="translate(1409.17 108.86)">
+      <!--this is text "-2" cls-17 is bold cls-5 is normal -->
+        <tspan class="cls-13">K</tspan>
+        <tspan class="cls-18" x="15.16" y="0">o</tspan>
+        <tspan class="cls-19" x="29.58" y="0">w</tspan>
+        <tspan x="50.07" y="0">loon B</tspan>
+        <tspan class="cls-20" x="123.03" y="0">a</tspan>
+        <tspan x="136.22" y="0">y</tspan>
+      </text>
+      <text id="KOB_C" class="cls-8" transform="translate(1439.2 83.04)">九龍灣</text>
+      <!--this is text "-C" cls-21 is bold cls-8 is normal -->
+    </g>
+    <g id="CHH">
+      <path id="CHH_O" class="cls-3" d="M3118.86,1197.19a13.39,13.39,0,1,1-13.39-13.39,13.39,13.39,0,0,1,13.39,13.39" transform="translate(-1850.9 -1114.51)" />
+      <circle id="CHH_A" class="cls-15" cx="1254.57" cy="82.68" r="25.51" />
+      <path id="CHH_OB" class="cls-4" d="M3118.86,1197.19a13.39,13.39,0,1,1-13.39-13.39A13.39,13.39,0,0,1,3118.86,1197.19Z" transform="translate(-1850.9 -1114.51)" />
+      <text id="CHH-2" data-name="CHH" class="cls-5" transform="translate(1193.72 54.95)">Choi Hung</text>
+      <text id="CHH_C" class="cls-8" transform="translate(1226.31 28.91)">彩虹</text>
+    </g>
+    <g id="DIH">
+      <path id="DIH_O" class="cls-3" d="M2990.94,1197.19a13.4,13.4,0,1,1-13.39-13.39,13.4,13.4,0,0,1,13.39,13.39" transform="translate(-1850.9 -1114.51)" />
+      <circle id="DIH_A" class="cls-15" cx="1126.64" cy="82.68" r="25.51" />
+      <path id="DIH_OB" class="cls-4" d="M2990.94,1197.19a13.4,13.4,0,1,1-13.39-13.39A13.4,13.4,0,0,1,2990.94,1197.19Z" transform="translate(-1850.9 -1114.51)" />
+      <text id="DIH-2" data-name="DIH" class="cls-5" transform="translate(960.24 54.95)">Diamond Hill</text>
+      <text id="DIH_C" class="cls-8" transform="translate(984.49 28.91)">鑽石山</text>
+    </g>
+    <g id="WTS">
+      <path id="WYS_O" class="cls-3" d="M2720.53,1197.19a13.4,13.4,0,1,1-13.4-13.39,13.39,13.39,0,0,1,13.4,13.39" transform="translate(-1850.9 -1114.51)" />
+      <circle id="WTS_A" class="cls-15" cx="856.23" cy="82.68" r="25.51" />
+      <path id="WTS_OB" class="cls-4" d="M2720.53,1197.19a13.4,13.4,0,1,1-13.4-13.39A13.39,13.39,0,0,1,2720.53,1197.19Z" transform="translate(-1850.9 -1114.51)" />
+      <text id="WTS-2" data-name="WTS" class="cls-5" transform="translate(788.2 54.95)">
+        <tspan class="cls-22">W</tspan>
+        <tspan x="22.49" y="0">ong </tspan>
+        <tspan class="cls-12" x="73.82" y="0">T</tspan>
+        <tspan x="85.73" y="0">ai Sin</tspan>
+      </text>
+      <text id="WTS_C" class="cls-8" transform="translate(811.67 29.54)">黃大仙</text>
+    </g>
+    <g id="LOF">
+      <path id="LOF_O" class="cls-3" d="M2586,1197.19a13.4,13.4,0,1,1-13.39-13.39,13.4,13.4,0,0,1,13.39,13.39" transform="translate(-1850.9 -1114.51)" />
+      <circle id="LOF_A" class="cls-15" cx="721.74" cy="82.55" r="25.51" />
+      <circle id="LOF_OB" class="cls-4" cx="2572.64" cy="1197.19" r="13.39" transform="translate(-1868.74 -1075.41) rotate(-0.87)" />
+      <text id="LOF-2" data-name="LOF" class="cls-5" transform="translate(687.78 55.26)">Lok <tspan class="cls-23" x="47.08" y="0">F</tspan>
+        <tspan x="60.03" y="0">u</tspan>
+      </text>
+      <text id="LOF_C" class="cls-8" transform="translate(691.39 29.54)">樂富</text>
+    </g>
+    <g id="KOT">
+      <path id="KOT_O" class="cls-3" d="M2463,1197.19a13.39,13.39,0,1,1-13.39-13.39,13.39,13.39,0,0,1,13.39,13.39" transform="translate(-1850.9 -1114.51)" />
+      <circle id="KOT_A" class="cls-15" cx="598.7" cy="82.68" r="25.51" />
+      <circle id="KOT_OB" class="cls-4" cx="2449.6" cy="1197.19" r="13.39" transform="translate(-1868.76 -1077.27) rotate(-0.87)" />
+      <text id="KOT-2" data-name="KOT" class="cls-5" transform="translate(497.92 54.95)">
+        <tspan class="cls-13">K</tspan>
+        <tspan class="cls-18" x="15.16" y="0">o</tspan>
+        <tspan class="cls-19" x="29.58" y="0">w</tspan>
+        <tspan x="50.07" y="0">loon </tspan>
+        <tspan class="cls-10" x="108.15" y="0">T</tspan>
+        <tspan x="120.12" y="0">ong</tspan>
+      </text>
+      <text id="KOT_C" class="cls-8" transform="translate(529.52 28.91)">九龍塘</text>
+    </g>
+    <g id="SKM">
+      <path id="SKM_O" class="cls-3" d="M2224.56,1197.19a13.39,13.39,0,1,1-13.39-13.39,13.39,13.39,0,0,1,13.39,13.39" transform="translate(-1850.9 -1114.51)" />
+      <circle id="SKM_OB" class="cls-4" cx="2211.17" cy="1197.19" r="13.39" transform="translate(-1868.78 -1080.89) rotate(-0.87)" />
+      <text id="SKM-2" data-name="SKM" class="cls-5" transform="translate(291.88 168.48)">Shek Kip Mei</text>
+      <text id="SKM_C" class="cls-8" transform="translate(316.27 138.93)">石硤尾</text>
+    </g>
+    <g id="PRE">
+      <path id="PRE_O" class="cls-3" d="M2120.2,1309.77a13.4,13.4,0,1,1-13.39-13.4,13.39,13.39,0,0,1,13.39,13.4" transform="translate(-1850.9 -1114.51)" />
+      <path id="PRE_OB" class="cls-4" d="M2120.35,1310.23a13.4,13.4,0,1,1-13.39-13.4A13.39,13.39,0,0,1,2120.35,1310.23Z" transform="translate(-1850.9 -1114.51)" />
+      <text id="PRE-2" data-name="PRE" class="cls-5" transform="translate(53.95 218.88)">P <tspan class="cls-24" x="13.77" y="0">r</tspan>
+        <tspan x="23.27" y="0">ince Ed</tspan>
+        <tspan class="cls-25" x="106.95" y="0">w</tspan>
+        <tspan x="127.49" y="0">a</tspan>
+        <tspan class="cls-24" x="141.35" y="0">r</tspan>
+        <tspan x="150.84" y="0">d</tspan>
+      </text>
+      <text id="PRE_C" class="cls-8" transform="translate(151.69 191.71)">太子</text>
+    </g>
+    <g id="MOK">
+      <path id="MOK_O" class="cls-3" d="M2120.35,1427.49A13.4,13.4,0,1,1,2107,1414.1a13.38,13.38,0,0,1,13.39,13.39" transform="translate(-1850.9 -1114.51)" />
+      <path id="MOK_OB" class="cls-4" d="M2120.35,1427.49A13.4,13.4,0,1,1,2107,1414.1,13.39,13.39,0,0,1,2120.35,1427.49Z" transform="translate(-1850.9 -1114.51)" />
+      <text id="MOK-2" data-name="MOK" class="cls-5" transform="translate(102.42 340.7)">Mong <tspan class="cls-13" x="73.9" y="0">K</tspan>
+        <tspan x="89.06" y="0">ok</tspan>
+      </text>
+      <text id="MOK_C" class="cls-8" transform="translate(151.69 311.6)">旺角</text>
+    </g>
+    <g id="YMT">
+      <path id="YMT_O" class="cls-3" d="M2120.2,1544.1a13.4,13.4,0,1,1-13.39-13.39,13.39,13.39,0,0,1,13.39,13.39" transform="translate(-1850.9 -1114.51)" />
+      <path id="YMT_OB" class="cls-4" d="M2120.35,1544.75a13.4,13.4,0,1,1-13.39-13.39A13.39,13.39,0,0,1,2120.35,1544.75Z" transform="translate(-1850.9 -1114.51)" />
+      <text id="YMT-2" data-name="YMT" class="cls-5" transform="translate(94.5 457.16)">
+        <tspan class="cls-9">Y</tspan>
+        <tspan x="14.11" y="0">au Ma </tspan>
+        <tspan class="cls-10" x="92.08" y="0">T</tspan>
+        <tspan x="104.04" y="0">ei</tspan>
+      </text>
+      <text id="YMT_C" class="cls-8" transform="translate(117.69 425.24)">油麻地</text>
+    </g>
+    <g id="HOM">
+      <path id="HOM_O" class="cls-3" d="M2552.37,1646.33a13.4,13.4,0,1,1-13.39-13.4,13.39,13.39,0,0,1,13.39,13.4" transform="translate(-1850.9 -1114.51)" />
+      <path id="HOM_OB" class="cls-4" d="M2553.29,1646.33a13.4,13.4,0,1,1-13.39-13.4A13.4,13.4,0,0,1,2553.29,1646.33Z" transform="translate(-1850.9 -1114.51)" />
+      <text id="HOM-2" data-name="HOM" class="cls-5" transform="translate(622.64 504.62)">Ho Man <tspan class="cls-6" x="96.57" y="0">T</tspan>
+        <tspan x="110.38" y="0">in</tspan>
+      </text>
+      <text id="HOM_C" class="cls-8" transform="translate(638.83 472.34)">何文田</text>
+    </g>
+    <g id="WHA">
+      <path id="WHA_O" class="cls-3" d="M2713.57,1717.33a13.4,13.4,0,1,1-13.39-13.4,13.4,13.4,0,0,1,13.39,13.4" transform="translate(-1850.9 -1114.51)" />
+      <path id="WHA_OB" class="cls-4" d="M2713.73,1716.11a13.4,13.4,0,1,1-13.4-13.39A13.4,13.4,0,0,1,2713.73,1716.11Z" transform="translate(-1850.9 -1114.51)" />
+      <text id="WHA-2" data-name="WHA" class="cls-5" transform="translate(854.78 638.88)">Wha <tspan class="cls-19" x="52.29" y="0">m</tspan>
+        <tspan x="74.67" y="0">poa</tspan>
+      </text>
+      <text id="WHA_C" class="cls-8" transform="translate(885.59 612.17)">黃埔</text>
+    </g>
+  </svg>
